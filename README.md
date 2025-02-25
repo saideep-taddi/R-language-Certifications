@@ -28,7 +28,7 @@ Understanding model assumptions and diagnostic techniques
 Evaluating model performance using R-squared, residual analysis, and p-values
 
 
-3️⃣ Exploratory Data Analysis (EDA) in R
+# 3️⃣ Exploratory Data Analysis (EDA) in R
 
 Certificate:  EDA certification
 
